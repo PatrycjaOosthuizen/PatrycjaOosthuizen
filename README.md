@@ -1,4 +1,4 @@
- # Hi, I’m @PatrycjaOosthuizen 👋
+ # Hi, I’m Patrycja Oosthuizen 👋
 
 👩‍💻 I'm a junior Front-end developer.
 
