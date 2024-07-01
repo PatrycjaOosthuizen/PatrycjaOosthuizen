@@ -10,8 +10,11 @@
 * Python
   
 🚀 My journey began with an intensive coding bootcamp called SheCodes.io, where I learned the fundamentals of web development and established a strong foundation.
+
 🎯 My goal is to continue growing as a developer, eager to learn and adapt to new challenges.
+
 🌟 Let's connect! I'm open to networking, discussing exciting job opportunities, or just chatting about the latest developments in the tech world. Feel free to reach out!
+
 📧 How to reach me: oosthuizen.code@gmail.com
 
 <!---
