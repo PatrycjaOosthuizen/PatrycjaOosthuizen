@@ -1,4 +1,5 @@
  # Hi, I’m Patrycja 👋
+ pronounce: [pəˈtrɪʃə] - Patricia
 
 👩‍💻 I'm a junior Front-end developer.
 
