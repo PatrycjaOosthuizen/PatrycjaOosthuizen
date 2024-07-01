@@ -1,5 +1,6 @@
 👋 Hi, I’m @PatrycjaOosthuizen
 👩‍💻 I'm a junior Front-end developer.
+
 🛠️  I've honed my skills in:
 * HTML
 * CSS
