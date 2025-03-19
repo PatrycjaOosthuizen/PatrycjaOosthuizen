@@ -26,4 +26,5 @@ jobs:
         with:
           message: "Update Snake animation"
           add: "dist/snake.svg dist/snake.gif dist/snake-dark.svg"
-          branch: main
+          push: true
+
