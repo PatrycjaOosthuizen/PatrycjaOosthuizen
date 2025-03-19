@@ -62,7 +62,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/PatrycjaOosthuizen/PatrycjaOosthuizen/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/PatrycjaOosthuizen/PatrycjaOosthuizen/blob/main/dist/snake.svg)
 
 ###
 
