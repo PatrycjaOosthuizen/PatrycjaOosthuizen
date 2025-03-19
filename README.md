@@ -60,7 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-### 🐍 GitHub Contribution Snake
+
+### 
+<h2 align="left">🐍 GitHub Contribution Snake</h2>
 
 ![Snake animation](https://github.com/PatrycjaOosthuizen/PatrycjaOosthuizen/blob/main/dist/snake.svg)
 
