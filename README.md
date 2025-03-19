@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">☺️ Pronounced: [pəˈtrɪʃə] (Patricia)<br><br>👩‍💻 Junior Developer | Frontend Enthusiast | Lifelong Learner</p>
+<p align="left">☺️ Pronounced: [pəˈtrɪʃə] (Patricia)<br><br>👩‍💻 Junior Developer | Coding Enthusiast | Lifelong Learner</p>
 
 ###
 
